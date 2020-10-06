@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset</folder>
+	<filename>2_9_1_rgb.png</filename>
+	<path>/home/nolanspecter/Desktop/dataset/2_9_1_rgb.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>5</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>533</xmin>
+			<ymin>392</ymin>
+			<xmax>815</xmax>
+			<ymax>656</ymax>
+		</bndbox>
+	</object>
+</annotation>
