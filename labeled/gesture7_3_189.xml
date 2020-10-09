@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset</folder>
+	<filename>gesture7_3_189.png</filename>
+	<path>/home/giang/LabelIMG/YOLO_hand_dataset/dataset/gesture7_3_189.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ok</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>378</xmin>
+			<ymin>201</ymin>
+			<xmax>507</xmax>
+			<ymax>351</ymax>
+		</bndbox>
+	</object>
+</annotation>
