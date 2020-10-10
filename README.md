@@ -6,7 +6,7 @@
 - Tuan Duy Nguyen Le
 
 ## Project info
-Handsy stuff
+Detect handsy stuff
 
 ## Classes
 This is a guide to labeling the classes. Label as follows:  
