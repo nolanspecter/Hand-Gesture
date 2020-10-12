@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset</folder>
+	<filename>5_A_hgr2B_id10_1.jpg</filename>
+	<path>/home/nltd/Downloads/YOLO_hand_dataset/dataset/5_A_hgr2B_id10_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>604</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>5</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>144</xmin>
+			<ymin>111</ymin>
+			<xmax>287</xmax>
+			<ymax>271</ymax>
+		</bndbox>
+	</object>
+</annotation>

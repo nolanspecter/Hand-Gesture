@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset</folder>
+	<filename>12_7_6_rgb.png</filename>
+	<path>/home/nltd/Downloads/YOLO_hand_dataset/dataset/12_7_6_rgb.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cool</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>608</xmin>
+			<ymin>343</ymin>
+			<xmax>852</xmax>
+			<ymax>528</ymax>
+		</bndbox>
+	</object>
+</annotation>
