@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset</folder>
+	<filename>14_9_2_rgb.png</filename>
+	<path>/home/nltd/Downloads/YOLO_hand_dataset/dataset/14_9_2_rgb.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>5</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>551</xmin>
+			<ymin>458</ymin>
+			<xmax>814</xmax>
+			<ymax>704</ymax>
+		</bndbox>
+	</object>
+</annotation>
