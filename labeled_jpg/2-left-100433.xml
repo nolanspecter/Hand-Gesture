@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Video</folder>
+	<filename>2-left-100433.jpg</filename>
+	<path>/home/giang/Desktop/Video/2-left-100433.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>left</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>94</xmin>
+			<ymin>287</ymin>
+			<xmax>512</xmax>
+			<ymax>565</ymax>
+		</bndbox>
+	</object>
+</annotation>
