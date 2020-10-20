@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Video</folder>
+	<filename>2-right-100139.jpg</filename>
+	<path>/home/giang/Desktop/Video/2-right-100139.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>right</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>720</xmin>
+			<ymin>279</ymin>
+			<xmax>1099</xmax>
+			<ymax>554</ymax>
+		</bndbox>
+	</object>
+</annotation>
