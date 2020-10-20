@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset</folder>
+	<filename>A_P_hgr2B_id16_1.jpg</filename>
+	<path>/home/nolanspecter/Desktop/datasetA_P_hgr2B_id16_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>604</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>0</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>150</xmin>
+			<ymin>167</ymin>
+			<xmax>260</xmax>
+			<ymax>270</ymax>
+		</bndbox>
+	</object>
+</annotation>

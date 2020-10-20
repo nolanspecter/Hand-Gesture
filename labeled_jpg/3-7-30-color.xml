@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset</folder>
+	<filename>3-7-30-color.jpg</filename>
+	<path>/home/nolanspecter/Desktop/dataset3-7-30-color.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>339</xmin>
+			<ymin>76</ymin>
+			<xmax>541</xmax>
+			<ymax>325</ymax>
+		</bndbox>
+	</object>
+</annotation>
