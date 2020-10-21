@@ -1,9 +1,9 @@
 # Group Project - USTH 2020
 
 ## Members
-- Anh Duc Dang
-- Truong Giang Nguyen
-- Tuan Duy Nguyen Le
+- Anh Duc DANG
+- Truong Giang NGUYEN
+- Le Tuan Duy NGUYEN
 
 ## Project info
 Detect handsy stuff
