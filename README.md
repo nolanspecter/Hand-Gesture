@@ -35,7 +35,14 @@ This is a guide to labeling the classes. Label as follows:
 ![Class 'hold'](classes/1-4-1-color.png)
 
 ### 'left'
-![Class 'left'](classes/1-10-1-color.png)
+There are 2 left gesture using both left and right hand.  
+![Class 'left'](classes/4-left-100021.jpg)
+![Class 'left'](classes/4-left-200101.jpg)
+
+### 'right'
+There are 2 right gesture using both left and right hand.  
+![Class 'right'](classes/4-right-100051.jpg)
+![Class 'right'](classes/4-right-200001.jpg)
 
 ### 'cool'
 ![Class 'cool'](classes/1_7_1_rgb.png)
