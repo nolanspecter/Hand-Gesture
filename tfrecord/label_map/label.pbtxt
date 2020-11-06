@@ -1,0 +1,55 @@
+item {
+    id: 1
+    display_name: "0"
+}
+
+item {
+    id: 2
+    display_name: "1"
+}
+
+item {
+    id: 3
+    display_name: "2"
+}
+
+item {
+    id: 4
+    display_name: "3"
+}
+
+item {
+    id: 5
+    display_name: "4"
+}
+
+item {
+    id: 6
+    display_name: "5"
+}
+
+item {
+    id: 7
+    display_name: "cool"
+}
+
+item {
+    id: 8
+    display_name: "hold"
+}
+
+item {
+    id: 9
+    display_name: "left"
+}
+
+item {
+    id: 10
+    display_name: "ok"
+}
+
+item {
+    id: 11
+    display_name: "right"
+}
+
