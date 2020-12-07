@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Hand Gesture Data</folder>
+	<filename>1-right-500291.jpg</filename>
+	<path>/home/nolanspecter/Desktop/Hand Gesture Data/1-right-500291.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>right</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>345</xmin>
+			<ymin>180</ymin>
+			<xmax>758</xmax>
+			<ymax>479</ymax>
+		</bndbox>
+	</object>
+</annotation>
