@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset</folder>
+	<filename>left - 060.jpg</filename>
+	<path>/home/nltd/Downloads/dataset/left - 060.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3088</width>
+		<height>2320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>left</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>825</xmin>
+			<ymin>635</ymin>
+			<xmax>1503</xmax>
+			<ymax>1057</ymax>
+		</bndbox>
+	</object>
+</annotation>
