@@ -1,0 +1,26 @@
+<annotation>
+	<folder>new_data_HG</folder>
+	<filename>right-100130.jpg</filename>
+	<path>/home/giang/LabelIMG/new_data_HG/right-100130.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>right</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>211</xmin>
+			<ymin>440</ymin>
+			<xmax>659</xmax>
+			<ymax>707</ymax>
+		</bndbox>
+	</object>
+</annotation>
