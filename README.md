@@ -7,6 +7,3 @@
 
 ## Project info
 Detect handsy stuff
-
-## Link to our dataset
-[Dataset](https://drive.google.com/drive/folders/11lSyZEo2sNPjNKGW18yeRjSAGRBv6VGf?usp=sharing)
