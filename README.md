@@ -1,4 +1,4 @@
-# Group Project - USTH 2020
+# YOLOv5 MODEL
 
 ## Members
 - Anh Duc DANG
