@@ -6,4 +6,4 @@
 - Le Tuan Duy NGUYEN
 
 ## Project info
-Detect handsy stuff
+Check out our [configuration](cfg/yolov4-custom.cfg)
